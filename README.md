@@ -1,4 +1,6 @@
 ### Controle de Processos
+[![Aumente o nível e vá para o controle PID](https://img.shields.io/badge/Acessar-Controle%20PID-blue)](https://github.com/maiarasalmaso/controle.ON.OFF/blob/main/CONTROLE%20PID)
+
 ## Controle ON / OFF
 
 Este é um exemplo de controle ON/OFF, cujo objetivo é regular a vazão de entrada por meio de uma válvula para controlar a altura do líquido no tanque. Há um arquivo em Python neste repositório que representa a simulação, e aqui você encontrará a explicação do mesmo.
