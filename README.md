@@ -6,6 +6,7 @@ Este é um exemplo de controle ON/OFF, cujo objetivo é regular a vazão de entr
 ![image](https://github.com/user-attachments/assets/0a764313-0210-4596-af72-7c94e38c3ec8)   ![image](https://github.com/user-attachments/assets/62e4d4b6-5772-4370-977f-d8ba3e0c4e62) onde ![image](https://github.com/user-attachments/assets/ce1e2ed7-a75b-4646-9030-82c91e84f3ab)
 
 Ao lado da representação do tanque, constam as equações que representam este sistema, as quais podem ser resolvidas utilizando o método de Euler, por se tratar de um sistema simples que envolve poucas variáveis.
+Este sisetma é uma ação DIRETA, pois quando eu quero aumentar o nível da água (VARIÁVEL CONTROLADA), a vazão que é a (VARIÁVEL MANIPULADA) deve ser aumentada
 
 # Algoritmo Manual para o Metodo de Euler
 
