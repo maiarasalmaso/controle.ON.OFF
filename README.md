@@ -20,7 +20,7 @@ O mesmo deve ser feito até chegar no tempo final desejado
 
 ![image](https://github.com/user-attachments/assets/aca7dc0f-d41c-4e41-bde6-b729fa4cc662)
 
-# Algoritmo do Python 
+# Algoritmo do Python  ( análise dos resultados)
 
 
 
