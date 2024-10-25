@@ -1,3 +1,4 @@
 O controle PID é um tipo de realinhamento que altera a variavel manipulada (altura, no caso do tanque) em uma faixa de operação de acordo com o erro dado pela ação proporcional, o histórico do erro dado pela ação integral e a tendência futura dada pela ação derivativa.
 
-Como estamos estudando o controle da altura do tanque variando de acordo com a vazão, o erro será dado pela ação direta. 
+O diagrama de blocos abaixo mostra como funciona este tipo de controle. 
+
